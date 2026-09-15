@@ -1,0 +1,16 @@
+streamlit>=1.38
+langchain>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-chroma>=0.2
+langchain-groq>=0.2
+langgraph>=0.2
+chromadb>=0.5
+sentence-transformers>=3.0
+pypdf>=5.0
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+tqdm>=4.66
+typing-extensions>=4.12
+python-dotenv>=1.0
